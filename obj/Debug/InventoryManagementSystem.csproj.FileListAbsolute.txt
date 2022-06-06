@@ -1,0 +1,156 @@
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\User\OneDrive\Рабочий стол\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\test.mdf
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\test_log.ldf
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\stdole.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.FormPrint.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CopyComplete
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ordered_report.rdlc
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.about.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductPrint.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SearchForm.resources
+C:\Users\Public\Documents\ManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderReady.resources

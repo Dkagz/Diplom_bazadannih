@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="D__DESKTOP_INVENTORYMANAGEMENTSYSTEM_TUTORIAL_DATABASE_DBIMS_MDFConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="D__DESKTOP_INVENTORYMANAGEMENTSYSTEM_TUTORIAL_DATABASE_DBIMS_MDFConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.InventoryManagementSystem.Properties.Settings.GlobalReference.Default.D__DESKTOP_INVENTORYMANAGEMENTSYSTEM_TUTORIAL_DATABASE_DBIMS_MDFConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="D__DESKTOP_INVENTORYMANAGEMENTSYSTEM_TUTORIAL_DATABASE_DBIMS_MDFConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        tbProduct.pname, tbOrder.odate, tbCategory.catname, tbOrder.qty, tbOrder.price
+FROM            tbOrder INNER JOIN
+                         tbProduct ON tbOrder.pid = tbProduct.pid CROSS JOIN
+                         tbCategory</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="pname" DataSetColumn="pname" />
+              <Mapping SourceColumn="odate" DataSetColumn="odate" />
+              <Mapping SourceColumn="catname" DataSetColumn="catname" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="price" DataSetColumn="price" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable2TableAdapter" GeneratorDataComponentClassName="DataTable2TableAdapter" Name="DataTable2" UserDataComponentName="DataTable2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="D__DESKTOP_INVENTORYMANAGEMENTSYSTEM_TUTORIAL_DATABASE_DBIMS_MDFConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        O.orderid, O.odate, O.pid, P.pname, O.cid, C.cname, O.qty, O.price, O.total
+FROM            tbOrder AS O INNER JOIN
+                         tbCustomer AS C ON O.cid = C.cid INNER JOIN
+                         tbProduct AS P ON O.pid = P.pid</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="orderid" DataSetColumn="orderid" />
+              <Mapping SourceColumn="odate" DataSetColumn="odate" />
+              <Mapping SourceColumn="pid" DataSetColumn="pid" />
+              <Mapping SourceColumn="pname" DataSetColumn="pname" />
+              <Mapping SourceColumn="cid" DataSetColumn="cid" />
+              <Mapping SourceColumn="cname" DataSetColumn="cname" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="price" DataSetColumn="price" />
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pname" msprop:Generator_ColumnPropNameInTable="pnameColumn" msprop:Generator_ColumnPropNameInRow="pname" msprop:Generator_UserColumnName="pname" msprop:Generator_ColumnVarNameInTable="columnpname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="odate" msprop:Generator_ColumnPropNameInTable="odateColumn" msprop:Generator_ColumnPropNameInRow="odate" msprop:Generator_UserColumnName="odate" msprop:Generator_ColumnVarNameInTable="columnodate" type="xs:dateTime" />
+              <xs:element name="catname" msprop:Generator_ColumnPropNameInTable="catnameColumn" msprop:Generator_ColumnPropNameInRow="catname" msprop:Generator_UserColumnName="catname" msprop:Generator_ColumnVarNameInTable="columncatname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_UserColumnName="qty" msprop:Generator_ColumnVarNameInTable="columnqty" type="xs:int" />
+              <xs:element name="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_UserColumnName="price" msprop:Generator_ColumnVarNameInTable="columnprice" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable2" msprop:Generator_RowEvHandlerName="DataTable2RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable2RowDeleted" msprop:Generator_RowDeletingName="DataTable2RowDeleting" msprop:Generator_RowEvArgName="DataTable2RowChangeEvent" msprop:Generator_TablePropName="DataTable2" msprop:Generator_RowChangedName="DataTable2RowChanged" msprop:Generator_RowChangingName="DataTable2RowChanging" msprop:Generator_TableClassName="DataTable2DataTable" msprop:Generator_RowClassName="DataTable2Row" msprop:Generator_TableVarName="tableDataTable2" msprop:Generator_UserTableName="DataTable2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="orderid" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="orderid" msprop:Generator_ColumnPropNameInTable="orderidColumn" msprop:Generator_ColumnVarNameInTable="columnorderid" msprop:Generator_UserColumnName="orderid" type="xs:int" />
+              <xs:element name="odate" msprop:Generator_ColumnPropNameInRow="odate" msprop:Generator_ColumnPropNameInTable="odateColumn" msprop:Generator_ColumnVarNameInTable="columnodate" msprop:Generator_UserColumnName="odate" type="xs:dateTime" />
+              <xs:element name="pid" msprop:Generator_ColumnPropNameInRow="pid" msprop:Generator_ColumnPropNameInTable="pidColumn" msprop:Generator_ColumnVarNameInTable="columnpid" msprop:Generator_UserColumnName="pid" type="xs:int" />
+              <xs:element name="pname" msprop:Generator_ColumnPropNameInRow="pname" msprop:Generator_ColumnPropNameInTable="pnameColumn" msprop:Generator_ColumnVarNameInTable="columnpname" msprop:Generator_UserColumnName="pname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cid" msprop:Generator_ColumnPropNameInRow="cid" msprop:Generator_ColumnPropNameInTable="cidColumn" msprop:Generator_ColumnVarNameInTable="columncid" msprop:Generator_UserColumnName="cid" type="xs:int" />
+              <xs:element name="cname" msprop:Generator_ColumnPropNameInRow="cname" msprop:Generator_ColumnPropNameInTable="cnameColumn" msprop:Generator_ColumnVarNameInTable="columncname" msprop:Generator_UserColumnName="cname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_UserColumnName="qty" type="xs:int" />
+              <xs:element name="price" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_UserColumnName="price" type="xs:int" />
+              <xs:element name="total" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_UserColumnName="total" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTable2" />
+      <xs:field xpath="mstns:orderid" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
